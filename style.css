@@ -1,0 +1,33 @@
+html,
+body {
+  background: url(Clay.jpg) no-repeat center center fixed; 
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+  font-family: 'Montserrat', sans-serif;
+}
+
+
+h1 {
+  font-size: 3rem; 
+  color: white;
+}
+
+.buffer {
+  height: 10rem;
+}
+
+.btn {
+  font-weight: 700;
+  text-transform: uppercase;
+  border-radius: 300px;
+}
+
+.btn-light:hover{
+  cursor: pointer;
+}
+
+.btn-xl {
+  padding: 1rem 2rem; 
+}
+
